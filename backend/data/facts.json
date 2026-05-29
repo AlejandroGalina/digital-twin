@@ -1,0 +1,20 @@
+{
+    "full_name": "Alejandro Galina Mata",
+    "name": "Jano",
+    "current_role": "FRONT END AI ENGINEER",
+    "location": "MEXICO CDMX",
+    "email": "alejandrogalinamata@gmail.com",
+    "linkedin": "linkedin.com/in/yourprofile",
+    "specialties": [
+      "Angular",
+      "AI"
+    ],
+    "years_experience": 7,
+    "education": [
+      {
+        "degree": "Your Degree",
+        "institution": "Your University",
+        "year": "2020"
+      }
+    ]
+  }
